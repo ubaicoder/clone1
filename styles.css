@@ -1,0 +1,170 @@
+body{
+  background-color: Black;
+}
+#title{
+  background-color: Black;
+}
+
+/* Navbar Section */
+
+.navbar {
+  padding-top: 2%;
+  padding-bottom: 2%;
+
+}
+
+
+.nav-link{
+  font-family: "Montserrat",sans-serif;
+  color: white;
+  position: relative;
+  right: 200px;
+  padding-right: 5%;
+  font-size: 1.2rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu",sans-serif;
+  font-size: 2.8rem;
+  position: relative;
+  left: 40px;
+}
+
+#navbarboat{
+  text-align: center;
+}
+
+
+
+
+
+/* Image section */
+
+
+.eager{
+  width: 115%;
+
+}
+
+
+/* Inform Section */
+
+.carousel-control-prev-icon{
+  position: absolute;
+  left: 20px;
+  }
+
+.carousel-control-next-icon{
+  position: absolute;
+  right: 20px;
+}
+
+/* Bestseller section */
+
+#Bestseller{
+  width: 80%;
+  position: absolute;
+  right: 10%;
+
+}
+
+.prod{
+  color: white;
+  font-family: "Ubuntu",sans-serif;
+  font-size: 2.5rem;
+ text-align: center;
+ padding: 5% 7%;
+}
+
+.card{
+  height: auto;
+  margin: 8px;
+  border-style: solid;
+
+
+}
+
+.card-header{
+  text-align: center;
+  width: 20%;
+}
+
+.boat-img{
+  width:900%;
+
+  }
+
+  .card-body{
+    text-align: center;
+    font-family: "Montserrat",sans-serif;
+    line-height: 1.2;
+  }
+
+
+
+ /* Wearable section */
+
+.wear{
+  text-align: center;
+  color: white;
+  font-family: "Ubuntu",sans-serif;
+  font-size: 2.5rem;
+  padding: 5% 7%;
+}
+
+.watch-photo{
+  width: 1250%;
+}
+
+
+/* Basshead section */
+
+
+.wearing{
+  text-align: center;
+  font-family: "Ubuntu",sans-serif;
+  color: white;
+  font-size: 2.5rem;
+  padding: 5% 7%;
+}
+
+.ear-img{
+  width: 1300%;
+}
+
+
+/* Footer section */
+
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+  position: relative;
+  right: 50%;
+}
+
+.social-icon{
+color: white;
+  margin:20px 10px;
+
+}
+
+.download-button{
+  margin:  5% 3% 5% 0;
+}
+
+#download{
+  text-align: center;
+}
+.new-button{
+  color: white;
+  font-family: "Ubuntu",sans-serif;
+}
+
+.social-acc{
+  color: white;
+  font-family: "Ubuntu",sans-serif;
+  position: relative;
+  left:  10%;
+}
+
+/* Earpods info */
