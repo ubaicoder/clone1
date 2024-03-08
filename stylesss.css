@@ -1,0 +1,48 @@
+.pic{
+  width: 30%;
+  }
+
+.textrt{
+  width: 55%;
+
+  font-size: 1.5rem;
+  float: right;
+  line-height: 1.2;
+  position: relative;
+  bottom : 320px;
+  right : 50px;
+}
+
+h2{
+  font-family: "Ubuntu",sans-serif;
+
+}
+.par{
+  position: relative;
+  bottom: 36px;
+  padding: 5px;
+  font-family: "Ubuntu",sans-serif;
+  font-weight: lighter;
+}
+
+.star{
+  position: relative;
+  bottom: 55px;
+  font-family: "Ubuntu",sans-serif;
+  font-size: 1.1rem;
+}
+
+hr{
+  width: 45%;
+  position: relative;
+  bottom: 55px;
+  right: 198px;
+}
+
+
+
+.colm{
+  font-family: "Ubuntu",sans-serif;
+  position: relative;
+  bottom: 65px;
+}
